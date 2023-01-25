@@ -1,0 +1,2 @@
+customer_name,customer_address,customer_phone,customer_order,courier,status
+John Doe,"001 High Street, London, NW1",07001002003,"1,2,3,4",0,Preparing
